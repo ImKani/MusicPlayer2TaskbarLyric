@@ -1,4 +1,4 @@
-# 源码指引
+﻿# 源码指引
 
 这个集成项目不复制完整上游源码，实际源码仍在同级目录：
 
@@ -26,3 +26,12 @@ TrafficMonitor 插件侧主要修改：
 - `..\TrafficMonitorPlugins\Plugins\MusicPlayer2Lyric`
 - `..\TrafficMonitorPlugins\TrafficMonitorPlugins.sln`
 
+
+
+## Repository Links
+
+- MusicPlayer2 taskbar lyric fork: https://github.com/ImKani/MusicPlayer2-TaskbarLyric
+- TrafficMonitor plugin fork: https://github.com/ImKani/TrafficMonitorPlugins-MusicPlayer2Lyric
+- Integration and release package: https://github.com/ImKani/MusicPlayer2TaskbarLyric
+
+Copyright (C) 2026 by ImKani.

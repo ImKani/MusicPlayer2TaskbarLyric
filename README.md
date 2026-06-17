@@ -1,4 +1,4 @@
-# MusicPlayer2 任务栏歌词集成版
+﻿# MusicPlayer2 任务栏歌词集成版
 
 这是一个个人修改版集成项目，用来把 MusicPlayer2 的当前歌词显示到 Windows 任务栏里的 TrafficMonitor 插件项中。
 
@@ -123,7 +123,7 @@ max_item_width=360
 - MFC 和 ATL for v143
 - Windows SDK `10.0.26100.0`
 
-刷新 `release\x64`：
+刷新 elease\x64`：
 
 ```powershell
 .\scripts\build-release.ps1
@@ -164,3 +164,12 @@ max_item_width=360
 - 明确说明这是个人修改版，不是 MusicPlayer2 或 TrafficMonitor 官方版本。
 - 最好同时分享源码改动或补丁。
 - 不要附带歌曲、歌词文本、封面等版权内容。
+
+
+## Repository Links
+
+- MusicPlayer2 taskbar lyric fork: https://github.com/ImKani/MusicPlayer2-TaskbarLyric
+- TrafficMonitor plugin fork: https://github.com/ImKani/TrafficMonitorPlugins-MusicPlayer2Lyric
+- Integration and release package: https://github.com/ImKani/MusicPlayer2TaskbarLyric
+
+Copyright (C) 2026 by ImKani.
