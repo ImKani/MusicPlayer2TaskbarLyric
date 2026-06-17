@@ -174,5 +174,3 @@ max_item_width=360
 - MusicPlayer2 taskbar lyric fork: https://github.com/ImKani/MusicPlayer2-TaskbarLyric
 - TrafficMonitor plugin fork: https://github.com/ImKani/TrafficMonitorPlugins-MusicPlayer2Lyric
 - Integration and release package: https://github.com/ImKani/MusicPlayer2TaskbarLyric
-
-Copyright (C) 2026 by ImKani.
