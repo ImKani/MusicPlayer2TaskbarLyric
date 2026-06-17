@@ -1,0 +1,22 @@
+# Local/generated release archives
+dist/
+release/**/*.exe
+release/**/*.dll
+release/**/*.pdb
+
+# Build/debug noise
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.pch
+*.tlog
+*.log
+
+# Editor/system files
+.vs/
+.vscode/
+*.user
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,5 @@
+[config]
+max_display_lines=3
+supplement_font_percent=80
+min_item_width=120
+max_item_width=360
