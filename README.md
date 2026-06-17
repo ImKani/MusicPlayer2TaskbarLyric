@@ -90,6 +90,7 @@ MusicPlayer2Lyric.ini
 ```ini
 [config]
 max_display_lines=3
+force_three_lines=0
 supplement_font_percent=80
 min_item_width=120
 max_item_width=360
@@ -98,6 +99,7 @@ max_item_width=360
 含义：
 
 - `max_display_lines`：任务栏最多显示几行，范围 `1` 到 `3`。
+- `force_three_lines`：设为 `1` 时，只要有两条补充行就强制三行显示；设为 `0` 时根据任务栏高度自动降级。
 - `supplement_font_percent`：第 2/3 行字号比例，范围 `50` 到 `100`。
 - `min_item_width`：插件项最小宽度，单位为 DPI 前像素。
 - `max_item_width`：插件项最大宽度，单位为 DPI 前像素。
@@ -154,4 +156,3 @@ max_item_width=360
 - 明确说明这是个人修改版，不是 MusicPlayer2 或 TrafficMonitor 官方版本。
 - 最好同时分享源码改动或补丁。
 - 不要附带歌曲、歌词文本、封面等版权内容。
-
