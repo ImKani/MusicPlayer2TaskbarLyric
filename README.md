@@ -1,4 +1,7 @@
 ﻿# MusicPlayer2 任务栏歌词集成版
+> 推荐下载入口：本仓库的 GitHub Releases。
+>
+> 本仓库负责整理修改版 `MusicPlayer2.exe`、`MusicPlayer2Lyric.dll`、示例配置、许可证和源码链接。普通用户只需要从这里下载整合包，不需要分别去本体仓库和插件仓库找文件。
 
 这是一个个人修改版集成项目，用来把 MusicPlayer2 的当前歌词显示到 Windows 任务栏里的 TrafficMonitor 插件项中。
 
