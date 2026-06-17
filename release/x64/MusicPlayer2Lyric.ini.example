@@ -1,6 +1,7 @@
 [config]
 max_display_lines=3
 force_three_lines=0
+primary_font_percent=90
 supplement_font_percent=80
 min_item_width=120
 max_item_width=360
