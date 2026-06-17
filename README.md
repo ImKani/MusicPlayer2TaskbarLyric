@@ -91,6 +91,8 @@ MusicPlayer2Lyric.ini
 [config]
 max_display_lines=3
 force_three_lines=0
+show_song_info=1
+show_current_next=0
 primary_font_percent=90
 supplement_font_percent=80
 min_item_width=120
@@ -101,6 +103,8 @@ max_item_width=360
 
 - `max_display_lines`：任务栏最多显示几行，范围 `1` 到 `3`。
 - `force_three_lines`：设为 `1` 时，只要有两条补充行就强制三行显示；设为 `0` 时根据任务栏高度自动降级。
+- `show_song_info`：设为 `1` 时在左侧显示“曲名/歌手”信息区，并用分隔线和歌词区域区分。
+- `show_current_next`：设为 `1` 时只显示“当前歌词 + 下一句歌词”，并强制不显示翻译、罗马音或其他并列行。
 - `primary_font_percent`：三行显示时第 1 行字号比例，范围 `50` 到 `100`。
 - `supplement_font_percent`：第 2/3 行字号比例，范围 `50` 到 `100`。
 - `min_item_width`：插件项最小宽度，单位为 DPI 前像素。
