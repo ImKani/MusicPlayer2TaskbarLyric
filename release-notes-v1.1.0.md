@@ -1,4 +1,4 @@
-# MusicPlayer2 任务栏歌词集成版 v1.1.0
+﻿# MusicPlayer2 任务栏歌词集成版 v1.1.0
 
 这是一个个人修改版整合包，用于将 MusicPlayer2 的当前歌词显示到 Windows 任务栏中的 TrafficMonitor 插件项里。
 
@@ -20,7 +20,7 @@
 - 插件支持曲名/歌手信息区，曲名和歌手分两行显示。
 - 插件支持“当前歌词 + 下一句歌词”模式；启用后会强制不显示翻译、罗马音或其他并列行。
 - 插件增加设置窗口，可在 TrafficMonitor 插件管理中直接修改显示选项。
-- 插件元数据更新为 `1.1.0`，版权信息为 `Copyright (C) 2026 by ImKani`。
+- 插件元数据更新为 `1.1.0`，并补充仓库链接。
 
 ## 安装方法
 
@@ -60,9 +60,11 @@ max_item_width=360
 - TrafficMonitor 歌词插件源码：`https://github.com/ImKani/TrafficMonitorPlugins-MusicPlayer2Lyric`
 - 整合包仓库：`https://github.com/ImKani/MusicPlayer2TaskbarLyric`
 
-## 说明
+## 许可和说明
 
 这是个人修改版，不是 MusicPlayer2 或 TrafficMonitor 官方版本。
+
+本整合包包含基于 `zhongyang219/MusicPlayer2` 的修改版程序、TrafficMonitor 歌词插件和示例配置文件，并保留各上游项目的版权和许可声明。
 
 MusicPlayer2 上游项目使用 GPLv3。如果分发修改版 `MusicPlayer2.exe`，应同时提供对应源码。TrafficMonitor 插件代码基于 MIT 许可证的 `zhongyang219/TrafficMonitorPlugins`。
 
