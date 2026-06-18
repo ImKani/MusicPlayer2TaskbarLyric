@@ -60,9 +60,7 @@ max_item_width=360
 - TrafficMonitor 歌词插件源码：`https://github.com/ImKani/TrafficMonitorPlugins-MusicPlayer2Lyric`
 - 整合包仓库：`https://github.com/ImKani/MusicPlayer2TaskbarLyric`
 
-## 版权和说明
-
-Copyright (C) 2026 by ImKani.
+## 说明
 
 这是个人修改版，不是 MusicPlayer2 或 TrafficMonitor 官方版本。
 
